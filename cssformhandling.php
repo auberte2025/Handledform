@@ -8,9 +8,6 @@
             background-color: #f0f8ff; 
             color:white; 
             font-size: 12px;
-            radius: 30px;
-            height: 50px;
-            width: 20;
         }
 
         h3 {
@@ -30,7 +27,7 @@
         }
 
         table {
-            background-color: #0d09f3ff; 
+            background-color: rgba(56, 243, 9, 1); 
             radius: 100px;
         }
        input[type="submit"] {
@@ -46,7 +43,7 @@
     <h1><b>ES RUKIRA</b></h3>
     <p><b>Created by  Auberte!</b></p>
 
-    <table cellpadding="50%">
+    <table cellpadding="30%">
         <tr>
             <td>
 
