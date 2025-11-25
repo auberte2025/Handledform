@@ -7,6 +7,7 @@
         body {
             background-color: #f0f8ff; 
             color:white; 
+            font-size: 12px;
         }
 
         h3 {
