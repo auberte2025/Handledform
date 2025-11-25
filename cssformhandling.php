@@ -40,9 +40,9 @@
 <body>
 
     <h1><b>ES RUKIRA</b></h3>
-    <p><b>Created by IT Auberte!</b></p>
+    <p><b>Created by  Auberte!</b></p>
 
-    <table cellpadding="30%">
+    <table cellpadding="50%">
         <tr>
             <td>
 
