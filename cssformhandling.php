@@ -8,6 +8,9 @@
             background-color: #f0f8ff; 
             color:white; 
             font-size: 12px;
+            radius: 30px;
+            height: 50px;
+            width: 20;
         }
 
         h3 {
